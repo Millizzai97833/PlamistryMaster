@@ -1,0 +1,8 @@
+{
+  "name": "Palmistry AI – Future & Palm Reading",
+  "description": "Complete AI-powered palmistry application by Shahab Millizai featuring instant palm vision analysis, deep 11-line interpretation, future forecast timelines, and multilingual Palmistry Master AI chat.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
